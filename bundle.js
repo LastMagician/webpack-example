@@ -12295,7 +12295,7 @@ exports = module.exports = __webpack_require__(7)(undefined);
 
 
 // module
-exports.push([module.i, "body {\r\n    background: yellow;\r\n}", ""]);
+exports.push([module.i, "body {\r\n    background: yellow;\r\n}\r\n\r\ninput {\r\n    width:200px;\r\n    height:40px;\r\n    border: none;\r\n}", ""]);
 
 // exports
 
